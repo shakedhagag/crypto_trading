@@ -1,2 +1,2 @@
-# crypto_trading_bot
+# crypto trading bot
 Algo-trading bot for crypto currencies.
